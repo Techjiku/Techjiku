@@ -1,6 +1,6 @@
 # 💫 About Me:
 TECHJIKU is an emerging deep-tech startup focused on innovation in robotics, IoT, and automation.<br>We design and develop smart hardware solutions to solve real-world agricultural and industrial challenges.<br>Our work includes robotics, embedded systems, 3D printing, prototyping, and intelligent automation.<br>We transform innovative ideas into practical solutions through research, design, fabrication, and testing.<br>Our mission is to empower industries and agriculture through affordable, homegrown technology. 🚀
-Website :- techjiku.co.in
+Website :- https://techjiku.co.in
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Techjiku ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jikutech@gmail.com) 
